@@ -16,6 +16,8 @@ public class Milli {
 		System.out.println("This is our java project.");
 		System.out.println("This is our java project.");
 
+		System.out.println("This is milli");
+		System.out.println("This is our java project.");
 
 
 	}
